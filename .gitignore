@@ -75,3 +75,5 @@ fabric.properties
 ./test/*.onnx
 ./*.onnx
 ./pretrained/*.tar
+./with_tqinghua_models
+./with_tqinghua_models_new_labels
