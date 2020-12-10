@@ -71,9 +71,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 .ipynb_checkpoints/
 .pytest_cache/
-./models/*.pth
-./test/*.onnx
-./*.onnx
-./pretrained/*.tar
-./with_tqinghua_models
-./with_tqinghua_models_new_labels
+models/
+test/*.onnx
+*.onnx
+pretrained/*.tar
+with_tqinghua_models/
+with_tqinghua_models_new_labels/
