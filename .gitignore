@@ -77,3 +77,6 @@ test/*.onnx
 pretrained/*.tar
 with_tqinghua_models/
 with_tqinghua_models_new_labels/
+
+# Checkpoints
+checkpoints/
